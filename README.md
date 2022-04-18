@@ -75,3 +75,4 @@ npm run migration:run
 ## Источники
 
 - [NestJS TypeORM миграции](https://www.youtube.com/watch?v=LqGJOiRRKF4)
+- [Using TypeORM migrations for simple database seeding](https://medium.com/@emfelipe/using-typeorm-migrations-for-simple-database-seeding-nestjs-example-1f1acbc0ef24)
